@@ -1,0 +1,56 @@
+export const skillGroups = [
+  {
+    title: "Full Stack",
+    icon: "💻",
+    color: "blue",
+    skills: [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Node.js",
+      "Express",
+      "Tailwind CSS",
+      "shadcn/ui",
+      "REST APIs",
+    ],
+  },
+  {
+    title: "Web3",
+    icon: "⛓️",
+    color: "purple",
+    skills: [
+      "Solidity",
+      "Foundry",
+      "Hardhat",
+      "Ethers.js",
+      "Moralis",
+      "Smart Contracts",
+      "On-chain Analysis",
+    ],
+  },
+  {
+    title: "AI",
+    icon: "🤖",
+    color: "emerald",
+    skills: [
+      "Claude",
+      "OpenAI",
+      "Prompt Engineering",
+      "AI Automation",
+      "LLM Integration",
+    ],
+  },
+  {
+    title: "IT Support",
+    icon: "🛠️",
+    color: "amber",
+    skills: [
+      "Windows",
+      "Linux",
+      "Networking",
+      "Hardware",
+      "Troubleshooting",
+      "Microsoft 365",
+    ],
+  },
+];
