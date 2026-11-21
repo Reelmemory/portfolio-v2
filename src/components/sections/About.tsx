@@ -29,7 +29,7 @@ export default function About() {
           </p>
         </div>
 
-        <div className="mt-12 grid gap-6 sm:grid-cols-3">
+        <div className="mt-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
           <div className="rounded-2xl border border-zinc-800 bg-zinc-900 p-6">
             <h3 className="text-3xl font-bold text-violet-500">10+</h3>
             <p className="mt-2 text-zinc-400">Projects Built</p>
@@ -38,6 +38,12 @@ export default function About() {
           <div className="rounded-2xl border border-zinc-800 bg-zinc-900 p-6">
             <h3 className="text-3xl font-bold text-violet-500">3+</h3>
             <p className="mt-2 text-zinc-400">Years in IT & Web3</p>
+          </div>
+
+          <div className="rounded-2xl border border-zinc-800 bg-zinc-900 p-6">
+            <h3 className="text-3xl font-bold text-violet-500">4</h3>
+            <p className="mt-2 text-zinc-400">Hackathons Participated</p>
+            <p className="mt-2 text-sm text-zinc-500">Building for the fifth</p>
           </div>
 
           <div className="rounded-2xl border border-zinc-800 bg-zinc-900 p-6">
